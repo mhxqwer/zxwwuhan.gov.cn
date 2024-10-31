@@ -1,0 +1,38 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/*--------信息列表样式-----------*/
+.list01,.list01 li,.list01 li a,.list01 li span { display:block; overflow:hidden; }
+	.list01 li {  }
+	.list01 li a { float:left; }
+	.list01 li span { float:right; color:#9F9F9F; font-family:Verdana, Geneva, sans-serif; }
+
+	.l01_w370,.l01_w370 li { width:370px; }
+	.l01_w370 { margin:10px 0px; line-height:35px; }
+		.l01_w370 li { height:35px; margin-top:0px !important; margin-top:-4px; }
+		.l01_w370 li a { padding-left:18px; width:302px; background:url(../images/bgimg.png) no-repeat -565px -121px; text-overflow: ellipsis; white-space: nowrap; }
+		.l01_w370 li span { width:48px; text-align:center; font-size:12px; }
+	
+	.l01_w572 { height:216px; }
+	.l01_w572,.l01_w572 li { width:572px; }
+	.l01_w572 { margin-top:8px; line-height:35px; }
+		.l01_w572 li { height:35px; margin-top:0px !important; margin-top:-4px; border-bottom:1px solid #F3F3F3; }
+		.l01_w572 li a { padding-left:18px; width:470px; background:url(../images/bgimg.png) no-repeat -565px -121px; text-overflow: ellipsis; white-space: nowrap; }
+		.l01_w572 li span { width:82px; text-align:center; font-size:12px; }
+	
+	.l01_w614,.l01_w614 li { width:614px; }
+	.l01_w614 { margin:10px 0px; padding-bottom:20px; line-height:35px; }
+		.l01_w614 li { height:35px; margin-top:0px !important; margin-top:-4px; }
+		.l01_w614 li a { padding-left:18px; width:514px; background:url(../images/bgimg.png) no-repeat -565px -121px; text-overflow: ellipsis; white-space: nowrap; }
+		.l01_w614 li span { width:82px; text-align:center; font-size:12px; }
+	
+	.l01_w833 {  margin-top:8px; width:833px; line-height:54px; border-top:1px solid #EEE; border-left:1px solid #EEE; }
+		.l01_w833 li { width:832px; height:54px; margin-top:0px !important; margin-top:-4px; border-bottom:1px solid #EEE; border-right:1px solid #EEE;  }
+		.l01_w833 li a { padding-left:28px; width:665px; background:url(../images/bgimg.png) no-repeat -558px -113px; text-overflow: ellipsis; white-space: nowrap; }
+		.l01_w833 li span { width:135px; text-align:center; font-size:12px; border-left:1px solid #EEE; }
+
+		.l01_w833 .hover { background-color:#EEE; }
+		.l01_w833 .hover span { background-color:#007EDF; color:#FFF; }
+
+
+

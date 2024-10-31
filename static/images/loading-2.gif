@@ -1,0 +1,188 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="SiteName" content="武汉市商务局">
+<meta name="SiteDomain" content="sw.wuhan.gov.cn">
+<meta name="SiteCode" content="4201000011">
+<title>网站提示 - 武汉市商务局</title>
+<link href="/css/class.css" rel="stylesheet" type="text/css" />
+<link href="/css/detail.css" rel="stylesheet" type="text/css" />
+<link href="/css/ztree.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="/scripts/jquery.min.js" charset="utf-8"></script>
+<script language="JavaScript" type="text/javascript" src="/scripts/manhuatotop.js" charset="utf-8"></script>
+<script language="JavaScript" type="text/javascript" src="/scripts/layer.js" charset="utf-8"></script>
+<script language="JavaScript" type="text/javascript" src="/scripts/share.js" charset="utf-8"></script>
+</head>
+
+<body>
+
+<!--container begin-->
+<div id="container">
+
+    <!--main begin-->
+    <div id="main">
+
+        <!--header begin-->
+<div id="header">
+	<div id="sublogo"><a href="http://www.wuhan.gov.cn" target="_blank"><img src="/images/sublogo.png" /></a></div>
+    <a href="/html/" id="logo" class="fleft bgimg"></a>
+    
+    <div id="funbox" class="fright">
+        <span><a href="javascript:void(0);" onclick="AddFavorite('武汉市商务局',location.href)">加入收藏</a>|<a href="javascript:void(0);" onclick="SetHome(this,'http://swj.wuhan.gov.cn');">设为首页</a></span>
+        
+        <form name="searchform" class="bgimg" action="http://search.wh.gov.cn/was5/web/search" method="get" target="_blank" onsubmit="return CheckForm();" >
+            <input type="hidden" name="orderby" value="RELEVANCE" />
+            <input type="hidden" name="channelid" value="292323" />
+            <input name="searchword" id="tx" onfocus="this.value=''" value="请输入关键字" type="text" />
+            <input name="btn" type="submit" id="btn" class="bgimg" value="" />
+        </form>
+    
+    </div>
+    
+    <div class="clear_both"></div>
+    
+</div>
+<!--header end-->
+
+        
+        <!--nav-menu begin-->
+<div id="nav-menu">
+    <ul class="menu">
+        <li class="bgimg ico01"><a href="/html/" class="root">网站首页</a></li>
+        <li class="bgimg ico02">
+            <a href="/html/jgzn/201711/t20171130_143999.shtml" class="root">机构职能</a>
+            <ul class="children">
+                <li><a href="/html/jgzn/201711/t20171130_143999.shtml">机构职能</a></li>
+                <li><a href="/html/jgzn/ldfg/">领导分工</a></li>
+                <li><a href="/html/jgzn/201711/t20171130_143997.shtml">处室子站</a></li>
+                <li><a href="/html/jgzn/201711/t20171130_143996.shtml">直属事业单位</a></li>
+            </ul>
+        </li>
+        <li class="bgimg ico03">
+            <a href="/html/zwgk/fzgh/zcqfzgh/" class="root">政务公开</a>
+            <ul class="children">
+                <li><a href="/html/zwgk/fzgh/zcqfzgh/">发展规划</a></li>
+                <li><a href="/html/zwgk/gzdt/tzgg/">工作动态</a></li>
+                <li><a href="http://zwfw.hubei.gov.cn/lawguide/dept/qzqd.jspx?areaId=420100000000&department=11420100K28041758D" target="_blank">权责清单</a></li>
+                <li><a href="/html/zwgk/rsxx/rsrm/">人事信息</a></li>
+                <li><a href="/html/zwgk/xxgk/201712/t20171215_146950.shtml">信息公开</a></li>
+                <li><a href="/html/zwgk/cwgk/zxzjgl/zjgl/">财务公开</a></li>
+                <li><a href="/html/zwgk/zcfg/zcfg/">政策法规</a></li>
+            </ul>
+        </li>
+        <li class="bgimg ico04">
+            <a href="/html/bsfw/bszn/" class="root">办事服务</a>
+            <ul class="children">
+                <li><a href="/html/bsfw/bszn/">办事指南</a></li>
+                <li><a href="/html/bsfw/bgxz/">表格下载</a></li>
+                <li><a href="/html/bsfw/zxfw_list.html">咨询服务</a></li>
+                <li><a href="/html/bsfw/sbclfb/">申报材料范本</a></li>
+                <li><a href="/html/bsfw/wstzclgf/">外商投资材料规范</a></li>
+                <li><a href="/html/bsfw/ggbmfw/">公共便民服务</a></li>
+                <li><a href="https://credit.wuhan.gov.cn" target="_blank">双公示</a></li>
+            </ul>
+        </li>
+        <li class="bgimg ico05">
+            <a href="/html/ztzl/jgjs/lzjzdcjc/" class="root">专题专栏</a>
+            <ul class="children">
+                <li><a href="/html/ztzl/jgjs/lzjzdcjc/">机关建设</a></li>
+                <li><a href="/html/ztzl/xxfw/dyck/">信息服务</a></li>
+                <li><a href="/html/ztzl/zwzt/bmyjsjsgjfyjsxx/">政务专题</a></li>
+                <li><a href="/html/ztzl/swzt/gjjjhz/">商务专题</a></li>
+                <li><a href="/html/ztzl/sjfb/swjjyhqk/">数据发布</a></li>
+			</ul>
+        </li>
+        <li class="bgimg ico06">
+            <a href="/html/gzhd/yjzj/" class="root">公众互动</a>
+            <ul class="children">
+                <li><a href="http://www.whdi.gov.cn/jb/" target="_blank">纪检举报</a></li>
+                <li><a href="http://61.183.175.130/sunxf/ext/index.htm?from=shangwuju" target="_blank">阳光信访入口</a></li>
+                <li><a href="/html/gzhd/jcxx_list.html">局长信箱</a></li>
+                <li><a href="/html/gzhd/tsjb_list.html">投诉举报</a></li>
+                <li><a href="/html/gzhd/yjzj/">意见征集</a></li>
+                <li><a href="/html/gzhd/zxft/">在线访谈</a></li>
+                <li><a href="http://liuyan.cjn.cn/threads/list?fid=55" target="_blank">回应关切</a></li>
+                <li><a href="/html/gzhd/201802/t20180205_184444.shtml">行政复议指引</a></li>
+            </ul>
+        </li>
+        <li class="bgimg ico05">
+            <a href="/html/sitemap.shtml" class="root">网站地图</a>
+        </li>
+    </ul>
+    <div class="clear_both"></div>
+</div>
+<!--nav-menu end-->
+
+<script language="JavaScript" type="text/javascript" src="/scripts/nav-menu.js" charset="utf-8"></script>
+
+		
+        <!--location begin-->
+        <div id="location" class="bgline bgwhite">
+            <div class="fleft sp bgimg sf01"></div>
+            <span class="fleft bgimg"><a href="/html/">首页</a>><font>网站提示</font></span>
+            <div class="fright sp bgimg sf02"></div>
+            <div class="clear_both"></div>
+        </div>
+        <!--location end-->
+        
+        <!--part begin-->
+        <div id="part" class="bgwhite">
+                
+            <!--detailbox begin-->
+            <div id="detailbox">
+            
+                <!--textbody begin-->
+                <div id="textbody" style="line-height:150px; text-align:center;">
+                    对不起，您暂时访问不了该页面！！
+                </div>
+                <!--textbody end-->
+            
+            </div>
+            <!--detailbox end-->
+        	
+            <div class="clear_both"></div>
+        
+        </div>
+        <!--part end-->
+        
+    </div>
+    <!--main end-->
+
+    <!--footer begin-->
+<div id="footer">
+    <div id="fmain">
+        <!--xy begin-->
+        <div id="xy">
+            <ul>
+                <li><a href="http://www.creditchina.gov.cn/" target="_blank" title="信用中国"><img src="/images/xy/01.jpg" /></a></li>
+                <li><a href="http://www.hbcredit.gov.cn/" target="_blank" title="信用湖北"><img src="/images/xy/02.jpg" /></a></li>
+                <li><a href="https://credit.wuhan.gov.cn/" target="_blank" title="信用武汉"><img src="/images/xy/03.jpg" /></a></li>
+            </ul>
+        </div>
+        <!--xy end-->
+    
+        版权所有 武汉市商务局　　Copyright sw.wuhan.gov.cn All Rights Reserved<br/>
+        地址：武汉市江岸区黎黄陂路27-29号　　邮编： 430017<br/>
+        联系电话 商务局：027-82796639  招商局：82792059  网站维护：027-82816806 <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1273764308'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s13.cnzz.com/stat.php%3Fid%3D1273764308%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script><br/>
+        政府网站标识码：4201000011　　鄂ICP备11011361号　<a href="https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42010202000465" target="_blank"><img src="/images/beian.png" style="vertical-align:middle;" /> 鄂公网安备 42010202000465号</a><br/>
+		
+        <ul id="pbox">
+			<li><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/18/269/0000/40706822/CA182690000407068220002.js' type='text/javascript'%3E%3C/script%3E"));</script></li>
+            <li style="padding-top:10px;"><a href="http://121.43.68.40/exposure/jiucuo.html?site_code=4201000011&url=http%3A%2F%2Fwww.whsswj.gov.cn%2F" target="_blank"><img src="/images/jiucuo.png" border="0"/></a></li>
+            <li><a href="javascript:void(0)" id="wb"><img src="/images/hxsw.jpg" /><font>武汉和谐商务微博</font></a></li>
+            <li><a href="javascript:void(0)" id="wx"><img src="/images/zxwh.jpg" /><font>“招商武汉”<br/>微信公众号</font></a></li>
+            <li><a href="http://www.wuhan.gov.cn" target="_blank" id="sublogo"><img src="/images/sublogo_c.png" /></a></li>
+            <div class="clear_both"></div>
+        </ul>
+    </div>
+</div>
+<!--footer end-->
+
+
+</div>
+<!--container end-->
+
+</body>
+</html>

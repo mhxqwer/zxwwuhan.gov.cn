@@ -1,0 +1,114 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url(global.css);		/* 全局样式 */
+@import url(share.css);		/* 公用样式 */
+@import url(pagesize.css);		/* 页码 */
+@import url(layout.css);		/* 布局 */
+@import url(layer.css);		/* 弹窗 */
+
+/*--------容器 主体 位置-----------*/
+#container #main #location,#container #main #location span { overflow:hidden; }
+	#container #main #location { height:70px; }
+	#container #main #location .sp { width:30px; height:70px; }
+	#container #main #location .sf01 { background-position:-257px -48px; }
+	#container #main #location .sf02 { background-position:-287px -48px; }
+	#container #main #location span { padding:20px 0px 0px 36px; width:1104px; height:49px; line-height:49px; text-align:left; color:#5A5A5A; background-position:-529px -723px; border-bottom:1px solid #CCC; display:block; }
+	#container #main #location span a,#container #main #location span font { padding:0px 5px; }
+	#container #main #location span font  { color:#218FE3; }
+
+/*--------容器 主体 主版块-----------*/
+#container #main #part  { padding:20px 30px; }
+
+	/*--------容器 主体 主版块 左边栏-----------*/
+	#container #main #part #part_left { width:275px; overflow:hidden; }
+	
+		/*--------容器 主体 主版块 左边栏 导航框-----------*/
+		#container #main #part #part_left #nav { padding-bottom:30px; }
+			#container #main #part #part_left #nav #ttline { padding:22px 0px 22px 108px; width:167px; height:60px; background-color:#007EDF; background-position:20px -524px; }
+			#container #main #part #part_left #nav #ttline h3,#container #main #part #part_left #nav #ttline span { display:block; }
+			#container #main #part #part_left #nav #ttline h3 { margin:0px; height:42px; line-height:42px; font-size:26px; color:#FFF; font-weight:normal; }
+			#container #main #part #part_left #nav #ttline span { height:18px; line-height:18px; font-size:10px; color:#6AA6E8; font-family:Georgia, "Times New Roman", Times, serif;   }
+			
+			#container #main #part #part_left #nav #navbox { margin-top:1px; padding:0px 2px; border:1px solid #ECECEC; }
+			#container #main #part #part_left #nav #navbox #leftmenu { padding:0px 15px 40px 15px; border-left:1px solid #ECECEC; border-right:1px solid #ECECEC; }
+			
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu_c { padding:8px 0px; font-size:16px; }
+			
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu,#container #main #part #part_left #nav #navbox #leftmenu .pmenu_c { padding:8px 0px; font-size:16px; }
+
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu h2,#container #main #part #part_left #nav #navbox #leftmenu .pmenu_c h2,#container #main #part #part_left #nav #navbox #leftmenu .pmenu span { background:url(../images/bgimg.png) no-repeat; display:block; }
+			
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu_c h2,#container #main #part #part_left #nav #navbox #leftmenu .pmenu h2 { margin:0px; padding: 0px 0px 0px 33px; height:28px; line-height:28px; font-size:16px; font-weight:normal; cursor:pointer; overflow: hidden; white-space: nowrap; -o-text-overflow: ellipsis; text-overflow: ellipsis;}
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu_c h2 { background-position: -301px -605px; }
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu h2 { background-position: -301px -661px; }
+			
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu .over_up { background-position: -301px -661px; }
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu .over_down { background-position: -301px -633px; }
+			
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu span { padding-left:51px; /*height:26px;*/ line-height:26px; font-size:12px; background-position: -301px -689px; }
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu .sub { padding-left:71px; /*height:26px;*/ line-height:26px; font-size:12px; background-position: -281px -689px; }
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu span a { display: block; overflow: hidden; white-space: nowrap; -o-text-overflow: ellipsis; text-overflow: ellipsis; }
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu .subend { background-position: -301px -741px; }
+			
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu .hover a:link,#container #main #part #part_left #nav #navbox #leftmenu .pmenu .hover a:visited { color: #007EDF; }
+			#container #main #part #part_left #nav #navbox #leftmenu .pmenu .hover a:hover { color: #218FE3; }
+
+
+	/*--------容器 主体 主版块 右边栏-----------*/
+	#container #main #part #part_right { width:835px; }
+
+		#container #main #part #part_right .ttline,#container #main #part #part_right .ttline span,#container #main #part #part_right .ttline font,#container #main #part #part_right .ttline a { display:block; }
+		#container #main #part #part_right .ttline,#container #main #part #part_right .ttline span,#container #main #part #part_right .ttline font { height:33px; }
+		#container #main #part #part_right .ttline { background-position:0px -91px; }
+		#container #main #part #part_right .ttline span,#container #main #part #part_right .ttline font { float:left; font-size:18px; line-height:28px; text-align:center; }
+		#container #main #part #part_right .ttline font { width:30px; color:#D2D2D2; }
+		
+		#container #main #part02 .nav .ttline span { cursor:pointer; }
+		
+		#container #main #part #part_right .ttline span { color:#636363; }
+		#container #main #part #part_right .ttline .hover { color:#0168B7; background:url(../images/bgline.png) repeat-x 0px -124px; display:block; }
+		#container #main #part #part_right .ttline a { float:right; margin-top:2px; padding-right:15px; width:18px; height:18px; background-position:-317px -48px; }
+
+		/*--------容器 右边栏 页码-----------*/
+		#container #main #part #part_right #pagesize { margin:0px auto; width:100%; line-height:80px; text-align:center; }
+
+/*--------容器 主体 处室版块-----------*/
+
+#container #main #subtitle { position:absolute; }
+#container #main #subtitle span { height:42px; line-height:42px; font-size:32px; color:#0574BE; font-weight:bold; -webkit-text-stroke: 1px #FFF; text-shadow:0 0 5px #FFF, -0 -0 5px #FFF; position:relative; z-index:1; top:90px; left:300px; }
+
+#container #main #cspart_left  { padding:0px 20px; width:614px; }
+	
+#container #main #cspart_right  { padding:0px 15px; width:508px; }
+
+	#container #main #cspart_right .textbody { padding:10px 10px 30px 10px; line-height:26px; }
+
+	#container #main td .ttline,#container #main td .ttline span,#container #main td .ttline font,#container #main td .ttline a { display:block; }
+	#container #main td .ttline,#container #main td .ttline span,#container #main td .ttline font { height:33px; }
+	#container #main td .ttline { background-position:0px -91px; }
+	#container #main td .ttline span,#container #main td .ttline font { float:left; font-size:18px; line-height:28px; text-align:center; }
+	#container #main td .ttline font { width:30px; color:#D2D2D2; }
+	
+	#container #main td .ttline span { float:left; padding:0px 4px; color:#636363; }
+	#container #main td .ttline .hover { color:#0168B7; background:url(../images/bgline.png) repeat-x 0px -124px; display:block; }
+	#container #main td .ttline a { float:right;  margin-top:2px; width:18px; height:18px; background-position:-317px -48px; }
+
+/*--------容器 主体 主版块 右边栏 网站地图-----------*/
+#container #main #part #part_right #sitemap { line-height:28px; font-size:18px; background-color:#EEE; }
+	#container #main #part #part_right #sitemap tr td { height:68px; }
+	#container #main #part #part_right #sitemap .bg01 { background-color:#FFF; }
+	#container #main #part #part_right #sitemap .bg02 { background-color:#FBFBFB; }
+	
+	#container #main #part #part_right #sitemap tr .ttbox { width:22%; text-align:center; }
+	#container #main #part #part_right #sitemap tr .classbox { padding: 28px 0 0 40px;}
+	#container #main #part #part_right #sitemap tr .classbox a { float:left; margin-right:32px; margin-bottom: 28px;}
+	
+	
+	#container #main #part #part_right #sitemap tr .ttbox a:link,#container #main #part #part_right #sitemap tr .ttbox a:visited { color: #007EDF; }
+	#container #main #part #part_right #sitemap tr .ttbox a:hover { color: #2688E1; }
+	
+	#container #main #part #part_right #sitemap tr .classbox a:link,#container #main #part #part_right #sitemap tr .classbox a:visited { color: #888888; }
+	#container #main #part #part_right #sitemap tr .classbox a:hover { color: #2688E1; }
+
+

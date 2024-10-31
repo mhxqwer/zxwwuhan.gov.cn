@@ -1,0 +1,10 @@
+﻿﻿@charset "utf-8";
+/* CSS Document */
+
+/*--------容器 右边栏 页码-----------*/
+#pagesize { margin:0px auto; width:700px; line-height:80px; text-align:center; }
+#pagesize .black { padding:15px 7px 10px 7px; font-size:14px; font-family:Tahoma, Arial, Helvetica, Sans-serif; }
+.black a,.black span { margin:2px; padding:7px 14px; color:#333; border:1px solid #d7d7d7; }
+.black a:hover,.black a:active,.black span.current { color: #FFF; background-color:#007DDE; border: 1px solid #007DDE; }
+.black span.disabled { color: #333; border: 1px solid #CCC; }
+

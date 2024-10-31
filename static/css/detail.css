@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*--------正文样式-----------*/
+#detailbox { padding:15px 35px 40px 35px; }
+	#detailbox #ttline { text-align:center; }	
+	#detailbox #ttline h1 { margin: 0px;margin: 35px;line-height: 34px;font-size: 32px;font-weight: bold;color: #333333; }
+	#detailbox #ttline span{ line-height: 32px;font-size: 15px; color: #757575;display: block;margin: 35px 0;}
+	#detailbox #textbody { margin: 35px 0}
+	#detailbox #textbody .TRS_Editor img{ display: block;max-width: 80%;margin: 0 auto;}
+	#detailbox #textbody .textbody-bottom{ margin: 35px 0;text-align: right;}
+	#detailbox #textbody .textbody-bottom:before{content: '';display: inlne-block;width: 0;height: 100%;vertical-align: middle;}
+	#detailbox #textbody .textbody-bottom>a{font-size: 15px;color: #000;display: inline-block;vertical-align: middle;margin-left: 6px;}
+	#detailbox #textbody .textbody-bottom>a:hover{color: #E65A33;}
+	#detailbox #docbottom { padding:10px; line-height:32px; border-top:1px solid #C7DCED; }
+	#detailbox #docbottom ul { float:left; width:550px; display:block; overflow:hidden; }
+	#detailbox #docbottom ul li a:link,#detailbox #docbottom ul li a:visited { color: #CA2601; }
+	#detailbox #docbottom ul li a:hover { color: #E65A33; }
+		
+	#detailbox #clsbody { padding:20px 10px; line-height:32px; font-size:16px; }
+	#detailbox #clsbody p { margin:0px; padding:0px; }
+
+	/*--------信息公开页头-----------*/
+	#headerbox { margin:0px auto; padding:8px; width:94%; line-height:22px; font-size:14px; border:1px solid #E5E5E5; }
+		#headerbox,headerbox li { display:block; }
+		#headerbox { padding:10px 20px; margin-bottom: 60px;}
+		#headerbox li { padding:4px; }
+		#headerbox li span { font-weight:bold; }
+
